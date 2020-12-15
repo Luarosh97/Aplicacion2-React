@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MATERIAS U\\Programacion Web\\Backend-Fronted-Pulsaciones-Dotnet-master\\Backend-Fronted-Pulsaciones-Dotnet-master\\ENTITY\\ENTITY.csproj": {}
+  },
+  "projects": {
+    "E:\\MATERIAS U\\Programacion Web\\Backend-Fronted-Pulsaciones-Dotnet-master\\Backend-Fronted-Pulsaciones-Dotnet-master\\ENTITY\\ENTITY.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MATERIAS U\\Programacion Web\\Backend-Fronted-Pulsaciones-Dotnet-master\\Backend-Fronted-Pulsaciones-Dotnet-master\\ENTITY\\ENTITY.csproj",
+        "projectName": "ENTITY",
+        "projectPath": "E:\\MATERIAS U\\Programacion Web\\Backend-Fronted-Pulsaciones-Dotnet-master\\Backend-Fronted-Pulsaciones-Dotnet-master\\ENTITY\\ENTITY.csproj",
+        "packagesPath": "C:\\Users\\ROCHETY\\.nuget\\packages\\",
+        "outputPath": "E:\\MATERIAS U\\Programacion Web\\Backend-Fronted-Pulsaciones-Dotnet-master\\Backend-Fronted-Pulsaciones-Dotnet-master\\ENTITY\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ROCHETY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

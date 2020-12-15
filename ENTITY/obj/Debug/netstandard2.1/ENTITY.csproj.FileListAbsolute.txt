@@ -1,0 +1,27 @@
+E:\ProyectoFramework\ENTITY\bin\Debug\netstandard2.1\ENTITY.deps.json
+E:\ProyectoFramework\ENTITY\bin\Debug\netstandard2.1\ENTITY.dll
+E:\ProyectoFramework\ENTITY\bin\Debug\netstandard2.1\ENTITY.pdb
+E:\ProyectoFramework\ENTITY\obj\Debug\netstandard2.1\ENTITY.csprojAssemblyReference.cache
+E:\ProyectoFramework\ENTITY\obj\Debug\netstandard2.1\ENTITY.AssemblyInfoInputs.cache
+E:\ProyectoFramework\ENTITY\obj\Debug\netstandard2.1\ENTITY.AssemblyInfo.cs
+E:\ProyectoFramework\ENTITY\obj\Debug\netstandard2.1\ENTITY.csproj.CoreCompileInputs.cache
+E:\ProyectoFramework\ENTITY\obj\Debug\netstandard2.1\ENTITY.dll
+E:\ProyectoFramework\ENTITY\obj\Debug\netstandard2.1\ENTITY.pdb
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\bin\Debug\netstandard2.1\ENTITY.deps.json
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\bin\Debug\netstandard2.1\ENTITY.dll
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\bin\Debug\netstandard2.1\ENTITY.pdb
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.csprojAssemblyReference.cache
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.AssemblyInfoInputs.cache
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.AssemblyInfo.cs
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.dll
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.pdb
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\bin\Debug\netstandard2.1\ENTITY.deps.json
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\bin\Debug\netstandard2.1\ENTITY.dll
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\bin\Debug\netstandard2.1\ENTITY.pdb
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.csprojAssemblyReference.cache
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.AssemblyInfoInputs.cache
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.AssemblyInfo.cs
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.csproj.CoreCompileInputs.cache
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.dll
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\ENTITY\obj\Debug\netstandard2.1\ENTITY.pdb

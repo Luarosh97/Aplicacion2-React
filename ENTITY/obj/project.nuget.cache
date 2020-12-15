@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OG45wha4UVGOSNrC4c6A5I3LjGlAYYv6SuBuUm0W5rlbFUG/ofdgxGK8SKxCs8xKo+wcgLILCf1WYBcjHuiZyw==",
+  "success": true,
+  "projectFilePath": "E:\\MATERIAS U\\Programacion Web\\Backend-Fronted-Pulsaciones-Dotnet-master\\Backend-Fronted-Pulsaciones-Dotnet-master\\ENTITY\\ENTITY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROCHETY\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+E:\ProyectoFramework\BLL\bin\Debug\netstandard2.1\BLL.deps.json
+E:\ProyectoFramework\BLL\bin\Debug\netstandard2.1\BLL.dll
+E:\ProyectoFramework\BLL\bin\Debug\netstandard2.1\BLL.pdb
+E:\ProyectoFramework\BLL\bin\Debug\netstandard2.1\DAL.dll
+E:\ProyectoFramework\BLL\bin\Debug\netstandard2.1\ENTITY.dll
+E:\ProyectoFramework\BLL\bin\Debug\netstandard2.1\ENTITY.pdb
+E:\ProyectoFramework\BLL\bin\Debug\netstandard2.1\DAL.pdb
+E:\ProyectoFramework\BLL\obj\Debug\netstandard2.1\BLL.csprojAssemblyReference.cache
+E:\ProyectoFramework\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfoInputs.cache
+E:\ProyectoFramework\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfo.cs
+E:\ProyectoFramework\BLL\obj\Debug\netstandard2.1\BLL.csproj.CoreCompileInputs.cache
+E:\ProyectoFramework\BLL\obj\Debug\netstandard2.1\BLL.csproj.CopyComplete
+E:\ProyectoFramework\BLL\obj\Debug\netstandard2.1\BLL.dll
+E:\ProyectoFramework\BLL\obj\Debug\netstandard2.1\BLL.pdb
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\BLL.deps.json
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\BLL.dll
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\BLL.pdb
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\ENTITY.dll
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\ENTITY.pdb
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.csprojAssemblyReference.cache
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfo.cs
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.csproj.CopyComplete
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.dll
+C:\Users\Rochety\Downloads\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.pdb
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\BLL.deps.json
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\BLL.dll
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\BLL.pdb
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\DAL.dll
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\ENTITY.dll
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\ENTITY.pdb
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\bin\Debug\netstandard2.1\DAL.pdb
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.csprojAssemblyReference.cache
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfoInputs.cache
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfo.cs
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.csproj.CoreCompileInputs.cache
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.csproj.CopyComplete
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.dll
+E:\MATERIAS U\Programacion Web\Backend-Fronted-Pulsaciones-Dotnet-master\Backend-Fronted-Pulsaciones-Dotnet-master\BLL\obj\Debug\netstandard2.1\BLL.pdb
